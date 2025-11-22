@@ -2,7 +2,7 @@
 
 ![bairesDev](https://github.com/user-attachments/assets/3613b0ea-8e0e-45c6-9e16-4165b2efc812)
 
-
+ 
 
 **Bootcamp BairesDev - Machine Learning Training**
 
