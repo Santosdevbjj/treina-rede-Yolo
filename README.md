@@ -9,7 +9,7 @@
 
 ---
 
-# 🎯 treinaRedeYolo — Base de Dados e Treinamento da Rede YOLO
+# 🎯 Base de Dados e Treinamento da Rede YOLO
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Santosdevbjj/treinaRedeYolo)
 ![GitHub contributors](https://img.shields.io/github/contributors/Santosdevbjj/treinaRedeYolo)
